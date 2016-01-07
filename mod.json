@@ -2,6 +2,7 @@
 "CompilerVersion":"v3.5",
 "CodeFiles":[],
 "IsDevelopment":false,
+"Tag":"1.0.0",
 "IsEnabled":true,
 "Name":"Tropical Buildings Mod",
 "Project":"Custom Scenery.csproj",
