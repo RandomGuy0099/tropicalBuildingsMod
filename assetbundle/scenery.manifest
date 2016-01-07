@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 2565683891
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 48fcf468da649df30013205961127e52
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0cc6beafefe85ece21f5866e49e948b7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+Assets:
+- Assets/Textures/bambooWallWindow.blend
+- Assets/Textures/bambooRoofHalf.blend
+- Assets/Textures/bambooRoofCorner.blend
+- Assets/Textures/bambooWallDoor.blend
+- Assets/Textures/bambooRoofPeak.blend
+- Assets/Textures/bambooWall.blend
+- Assets/Textures/bambooWallOpening.blend
+- Assets/Textures/bambooPost.blend
+Dependencies: []

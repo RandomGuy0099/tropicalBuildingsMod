@@ -1,0 +1,73 @@
+﻿{
+    "Bamboo Wall": {
+		"model": "bambooWall",
+		"type": "deco",
+		"grid": true,
+		"heightDelta": 1.0,
+		"price": 20.0,
+		"snapCenter": true
+	}
+	
+	"Bamboo Wall With Door": {
+		"model": "bambooWallDoor",
+		"type": "deco",
+		"grid": true,
+		"heightDelta": 1.0,
+		"price": 20.0,
+		"snapCenter": true
+	}
+	
+	"Bamboo Wall Opening": {
+		"model": "bambooWallOpening",
+		"type": "deco",
+		"grid": true,
+		"heightDelta": 1.0,
+		"price": 20.0,
+		"snapCenter": true
+	}
+	
+	"Bamboo Post": {
+		"model": "bambooPost",
+		"type": "deco",
+		"grid": true,
+		"heightDelta": 1.0,
+		"price": 20.0,
+		"snapCenter": true
+	}
+	
+	"Bamboo Roof Half": {
+		"model": "bambooRoofHalf",
+		"type": "deco",
+		"grid": true,
+		"heightDelta": 1.0,
+		"price": 20.0,
+		"snapCenter": true
+	}
+	
+	"Bamboo Roof Corner": {
+		"model": "bambooRoofCorner",
+		"type": "deco",
+		"grid": true,
+		"heightDelta": 1.0,
+		"price": 20.0,
+		"snapCenter": true
+	}
+	
+	"Bamboo Window": {
+		"model": "bambooWallWindow",
+		"type": "deco",
+		"grid": true,
+		"heightDelta": 1.0,
+		"price": 20.0,
+		"snapCenter": true
+	}
+	
+	"Bamboo Roof Peak": {
+		"model": "bambooRoofPeak",
+		"type": "deco",
+		"grid": true,
+		"heightDelta": 1.0,
+		"price": 20.0,
+		"snapCenter": true
+	}
+}
