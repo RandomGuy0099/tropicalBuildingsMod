@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1613609040
+CRC: 77081757
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f7f33816b1ab430ae9736fd522463849
+    Hash: 94a2e771b13eee347f1f739ef352466e
   TypeTreeHash:
     serializedVersion: 2
     Hash: 0cc6beafefe85ece21f5866e49e948b7
@@ -35,9 +35,12 @@ Assets:
 - Assets/Textures/bambooWallWindow.blend
 - Assets/Textures/bambooRoofHalf.blend
 - Assets/Textures/bambooRoofCorner.blend
+- Assets/Textures/bambooRoofCornerInv.blend
 - Assets/Textures/bambooWallDoor.blend
 - Assets/Textures/bambooRoofPeak.blend
 - Assets/Textures/bambooWall.blend
 - Assets/Textures/bambooWallOpening.blend
 - Assets/Textures/bambooPost.blend
+- Assets/Textures/bambooWallCurve.blend
+- Assets/Textures/bambooRoofCurve.blend
 Dependencies: []

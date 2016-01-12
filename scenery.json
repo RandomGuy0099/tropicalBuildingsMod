@@ -70,4 +70,31 @@
 		"price": 20.0,
 		"snapCenter": true
 	}
+	
+	"Bamboo Roof Inner Corner": {
+		"model": "bambooRoofCornerInv",
+		"type": "deco",
+		"grid": true,
+		"heightDelta": 1.0,
+		"price": 20.0,
+		"snapCenter": true
+	}
+	
+	"Bamboo Curved Wall": {
+		"model": "bambooWallCurve",
+		"type": "deco",
+		"grid": true,
+		"heightDelta": 1.0,
+		"price": 20.0,
+		"snapCenter": true
+	}
+	
+	"Bamboo Curved Roof": {
+		"model": "bambooRoofCurve",
+		"type": "deco",
+		"grid": true,
+		"heightDelta": 1.0,
+		"price": 20.0,
+		"snapCenter": true
+	}
 }
