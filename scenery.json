@@ -1,5 +1,6 @@
 ﻿{
     "Bamboo Wall": {
+		"category":"Structures"
 		"model": "bambooWall",
 		"type": "deco",
 		"grid": true,
@@ -9,6 +10,7 @@
 	}
 	
 	"Bamboo Wall With Door": {
+		"category":"Structures"
 		"model": "bambooWallDoor",
 		"type": "deco",
 		"grid": true,
@@ -18,6 +20,7 @@
 	}
 	
 	"Bamboo Wall Opening": {
+		"category":"Structures"
 		"model": "bambooWallOpening",
 		"type": "deco",
 		"grid": true,
@@ -27,6 +30,7 @@
 	}
 	
 	"Bamboo Post": {
+		"category":"Structures"
 		"model": "bambooPost",
 		"type": "deco",
 		"grid": true,
@@ -36,6 +40,7 @@
 	}
 	
 	"Bamboo Roof Half": {
+		"category":"Structures"
 		"model": "bambooRoofHalf",
 		"type": "deco",
 		"grid": true,
@@ -45,6 +50,7 @@
 	}
 	
 	"Bamboo Roof Corner": {
+		"category":"Structures"
 		"model": "bambooRoofCorner",
 		"type": "deco",
 		"grid": true,
@@ -54,6 +60,7 @@
 	}
 	
 	"Bamboo Window": {
+		"category":"Structures"
 		"model": "bambooWallWindow",
 		"type": "deco",
 		"grid": true,
@@ -63,6 +70,7 @@
 	}
 	
 	"Bamboo Roof Peak": {
+		"category":"Structures"
 		"model": "bambooRoofPeak",
 		"type": "deco",
 		"grid": true,
@@ -72,6 +80,7 @@
 	}
 	
 	"Bamboo Roof Inner Corner": {
+		"category":"Structures"
 		"model": "bambooRoofCornerInv",
 		"type": "deco",
 		"grid": true,
@@ -81,6 +90,7 @@
 	}
 	
 	"Bamboo Curved Wall": {
+		"category":"Structures"
 		"model": "bambooWallCurve",
 		"type": "deco",
 		"grid": true,
@@ -90,6 +100,7 @@
 	}
 	
 	"Bamboo Curved Roof": {
+		"category":"Structures"
 		"model": "bambooRoofCurve",
 		"type": "deco",
 		"grid": true,

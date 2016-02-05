@@ -58,6 +58,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CustomScenery\Decorators\GridDecorator.cs" />
+	<Compile Include="CustomScenery\Decorators\GroupDecorator.cs" />
     <Compile Include="CustomScenery\Decorators\GridSubdivisionDecorator.cs" />
     <Compile Include="CustomScenery\Decorators\HeightDecorator.cs" />
     <Compile Include="CustomScenery\Decorators\IDecorator.cs" />

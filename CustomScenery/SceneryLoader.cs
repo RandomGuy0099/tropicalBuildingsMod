@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.IO;
+using Custom_Scenery.CustomScenery;
+using Custom_Scenery.CustomScenery.Decorators;
 using Custom_Scenery.Decorators;
 using MiniJSON;
 using UnityEngine;
@@ -47,6 +49,9 @@ namespace Custom_Scenery
                             
                             if (options.ContainsKey("recolorable"))
                                 (new RecolorableDecorator((bool)options["recolorable"])).Decorate(asset, options, bundle);
+							
+							if (options.ContainsKey("category"))
+                                (new GroupDecorator()).Decorate(asset, options, bundle);
 
                             DontDestroyOnLoad(asset);
 
