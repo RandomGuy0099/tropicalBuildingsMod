@@ -1,6 +1,6 @@
 ﻿{
     "Bamboo Wall": {
-		"category":"Structures"
+		"category":"Tropical Buildings"
 		"model": "bambooWall",
 		"type": "deco",
 		"grid": true,
@@ -10,7 +10,7 @@
 	}
 	
 	"Bamboo Wall With Door": {
-		"category":"Structures"
+		"category":"Tropical Buildings"
 		"model": "bambooWallDoor",
 		"type": "deco",
 		"grid": true,
@@ -20,7 +20,7 @@
 	}
 	
 	"Bamboo Wall Opening": {
-		"category":"Structures"
+		"category":"Tropical Buildings"
 		"model": "bambooWallOpening",
 		"type": "deco",
 		"grid": true,
@@ -30,7 +30,7 @@
 	}
 	
 	"Bamboo Post": {
-		"category":"Structures"
+		"category":"Tropical Buildings"
 		"model": "bambooPost",
 		"type": "deco",
 		"grid": true,
@@ -40,7 +40,7 @@
 	}
 	
 	"Bamboo Roof Half": {
-		"category":"Structures"
+		"category":"Tropical Buildings"
 		"model": "bambooRoofHalf",
 		"type": "deco",
 		"grid": true,
@@ -50,7 +50,7 @@
 	}
 	
 	"Bamboo Roof Corner": {
-		"category":"Structures"
+		"category":"Tropical Buildings"
 		"model": "bambooRoofCorner",
 		"type": "deco",
 		"grid": true,
@@ -60,7 +60,7 @@
 	}
 	
 	"Bamboo Window": {
-		"category":"Structures"
+		"category":"Tropical Buildings"
 		"model": "bambooWallWindow",
 		"type": "deco",
 		"grid": true,
@@ -70,7 +70,7 @@
 	}
 	
 	"Bamboo Roof Peak": {
-		"category":"Structures"
+		"category":"Tropical Buildings"
 		"model": "bambooRoofPeak",
 		"type": "deco",
 		"grid": true,
@@ -80,7 +80,7 @@
 	}
 	
 	"Bamboo Roof Inner Corner": {
-		"category":"Structures"
+		"category":"Tropical Buildings"
 		"model": "bambooRoofCornerInv",
 		"type": "deco",
 		"grid": true,
@@ -90,7 +90,7 @@
 	}
 	
 	"Bamboo Curved Wall": {
-		"category":"Structures"
+		"category":"Tropical Buildings"
 		"model": "bambooWallCurve",
 		"type": "deco",
 		"grid": true,
@@ -100,7 +100,7 @@
 	}
 	
 	"Bamboo Curved Roof": {
-		"category":"Structures"
+		"category":"Tropical Buildings"
 		"model": "bambooRoofCurve",
 		"type": "deco",
 		"grid": true,
