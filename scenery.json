@@ -5,7 +5,7 @@
 		"type": "deco",
 		"grid": true,
 		"heightDelta": 1.0,
-		"price": 20.0,
+		"price": 5.0,
 		"snapCenter": true
 	}
 	
@@ -15,7 +15,7 @@
 		"type": "deco",
 		"grid": true,
 		"heightDelta": 1.0,
-		"price": 20.0,
+		"price": 5.0,
 		"snapCenter": true
 	}
 	
@@ -25,7 +25,7 @@
 		"type": "deco",
 		"grid": true,
 		"heightDelta": 1.0,
-		"price": 20.0,
+		"price": 5.0,
 		"snapCenter": true
 	}
 	
@@ -35,7 +35,7 @@
 		"type": "deco",
 		"grid": true,
 		"heightDelta": 1.0,
-		"price": 20.0,
+		"price": 5.0,
 		"snapCenter": true
 	}
 	
@@ -45,7 +45,7 @@
 		"type": "deco",
 		"grid": true,
 		"heightDelta": 1.0,
-		"price": 20.0,
+		"price": 5.0,
 		"snapCenter": true
 	}
 	
@@ -55,7 +55,7 @@
 		"type": "deco",
 		"grid": true,
 		"heightDelta": 1.0,
-		"price": 20.0,
+		"price": 5.0,
 		"snapCenter": true
 	}
 	
@@ -65,7 +65,7 @@
 		"type": "deco",
 		"grid": true,
 		"heightDelta": 1.0,
-		"price": 20.0,
+		"price": 5.0,
 		"snapCenter": true
 	}
 	
@@ -75,7 +75,7 @@
 		"type": "deco",
 		"grid": true,
 		"heightDelta": 1.0,
-		"price": 20.0,
+		"price": 5.0,
 		"snapCenter": true
 	}
 	
@@ -85,7 +85,7 @@
 		"type": "deco",
 		"grid": true,
 		"heightDelta": 1.0,
-		"price": 20.0,
+		"price": 5.0,
 		"snapCenter": true
 	}
 	
@@ -95,7 +95,7 @@
 		"type": "deco",
 		"grid": true,
 		"heightDelta": 1.0,
-		"price": 20.0,
+		"price": 5.0,
 		"snapCenter": true
 	}
 	
@@ -105,7 +105,7 @@
 		"type": "deco",
 		"grid": true,
 		"heightDelta": 1.0,
-		"price": 20.0,
+		"price": 5.0,
 		"snapCenter": true
 	}
 }
